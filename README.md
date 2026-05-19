@@ -1,0 +1,1 @@
+> Python ML project predicting employee salary (Linear Regression, R²=0.91) and churn (Decision Tree, Random Forest — 92% accuracy). Includes confusion matrices, ROC curves & feature importance charts using scikit-learn, Pandas & Matplotlib.
